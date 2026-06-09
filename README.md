@@ -59,15 +59,7 @@ Dessa forma, garantimos um tempo de resposta de milissegundos, economizamos larg
 
 ---
 
-## 🎯 Objetivos
 
-✔️ Leitura contínua de temperatura (proxy de telemetria)
-✔️ Processamento local (sem depender da nuvem)
-✔️ Resposta imediata em **3 canais redundantes**:
-
-* 🔴 Visual (LEDs)
-* 📟 Informativo (LCD)
-* 🔊 Sonoro (buzzer)
 
 ---
 
